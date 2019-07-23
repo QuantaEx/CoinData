@@ -11,7 +11,7 @@
   GC
 
 # Contract Address 
-  [0x8Eb38715604b938812DEC25A0A1bc05B4becB9ca] (https://etherscan.io/address/0x8Eb38715604b938812DEC25A0A1bc05B4becB9ca)
+ # [0x8Eb38715604b938812DEC25A0A1bc05B4becB9ca](https://etherscan.io/address/0x8Eb38715604b938812DEC25A0A1bc05B4becB9ca)
 
 # Contract Decimal 
   18
